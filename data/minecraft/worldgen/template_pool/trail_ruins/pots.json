@@ -1,0 +1,181 @@
+{
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/1",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/2",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/3",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/4",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/5",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/6",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/7",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/8",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/9",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/10",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/11",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/12",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/13",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/14",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraft:trail_ruins/pots/15",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:empty_pool_element",
+          "processors": {
+            "processors": []
+          },
+          "projection": "rigid"
+        },
+        "weight": 30
+      }
+    ],
+    "fallback": "minecraft:empty"
+  }
+  
